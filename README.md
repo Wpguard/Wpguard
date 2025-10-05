@@ -8,7 +8,7 @@ I’m a **WordPress Security Expert** and **Plugin Developer** with 5+ years of 
 - 👀 Focused on **WordPress website security**, performance optimization, and plugin development  
 - 🌱 Currently improving my **PHP and WordPress development skills**  
 - 💞️ Looking to collaborate on **open-source WordPress projects**  
-- 📫 Reach me via [WordPress.org profile](https://profiles.wordpress.org/wpguardafrin/) or [afrinupoma8@gmail.com ]  
+- 📫 Reach me via [WordPress.org profile](https://profiles.wordpress.org/wpguardsa/) or [afrinupoma8@gmail.com ]  
 - ⚡ Fun fact: I enjoy turning security challenges into simple solutions for users
 
 ---
